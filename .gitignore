@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+*.log
+build/
+dist/
+.DS_Store
+logs/
+*.pid
+.pm2/
+uploads/
